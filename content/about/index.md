@@ -4,17 +4,13 @@ avatar: 'me.jpg'
 skills:
   - Coding 💻
   - Reading 📚
-  - Painting 🎨
-  - Crafting ✂️
-  - Problem Solving 🧠
-  - Team Management 🤝
-  - Mentoring 🌱
+  - Guitar 🎸 
+  - Cricket 🏏 
+  - Chess ♟️ 
 ---
 
-👋 Hello! I'm Anish Sharma, proudly from Punjab, often hailed as the 'Bread Basket of India.'
+👋 I'm Anish Sharma from Punjab.
 
-I'm not just your average enthusiast. I'm a creative powerhouse, a time wizard, and a goal-driven explorer with a moral compass that never wavers. 🚀
+I enjoy building things, solving problems, and learning new skills. I'm good at managing time, working in teams, and helping others grow.
 
-My energy is contagious, my communication skills are honed to perfection, and I have a knack for meticulous detail. Let's paint the world with creativity and code!
-
-Curious about my other passions? Keep reading!
+Want to know more? Keep reading.
