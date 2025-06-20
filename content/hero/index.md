@@ -1,14 +1,14 @@
-
 ---
 title: "👋 Hello, I'm"
 name: "Anish Sharma"
-subtitle: "🚀 Tech Explorer!"
-buttonText: "Let's Create!"
+subtitle: "Web Developer & Student"
+buttonText: "Let's Build"
 ---
 
-👨‍💻 **Tech Enthusiast & 11th Grader** 👨‍🎓
+**12th Grade Student | Web Development**
 
-Greetings! I'm Anish Sharma, an aspiring 11th Grade student, deeply intrigued by **Web Development** and **Data Science**. I specialize in the MERN stack, proficient in crafting dynamic web applications using MongoDB, Express.js, React.js, and Node.js. Additionally, I've honed my skills in Discord.js for building interactive bots and have experience in developing Petrodectoy panels for efficient management of resources. 
+I'm Anish Sharma, a 12th-grade student who enjoys working on websites and tech projects. I use the **MERN Stack** (MongoDB, Express.js, React.js, Node.js) to build simple and useful web apps.
 
-I'm on a journey of continuous learning and application, eager to collaborate and create something remarkable. 🌟 Ready to join forces and craft the future together?
+I've also made some bots using **Discord.js** and built **Petrodectoy panels** to help manage resources.
 
+I'm still learning and always looking for chances to work on real projects and improve my skills.
